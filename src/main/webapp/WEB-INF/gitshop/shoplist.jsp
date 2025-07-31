@@ -14,5 +14,9 @@
 <h1>안녕하세요 Hello <br>젠킨스 설정 중입니다</h1>
 <br>
 <img alt="" src="../1.jpg" style="width: 300px;">
+<img alt="" src="../2.jpg" style="width: 300px;">
+<img alt="" src="../3.jpg" style="width: 300px;">
+<img alt="" src="../4.jpg" style="width: 300px;">
+<img alt="" src="../5.jpg" style="width: 300px;">
 </body>
 </html>
